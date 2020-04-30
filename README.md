@@ -41,9 +41,9 @@ If you want to build with the regular `mvn` command, you will need [Maven v3.5.0
 ```xml
 <pom>
    <parent>
-        <groupId>com.yunlsp.framework.components</groupId>
-        <artifactId>mixmicro-components-dependencies</artifactId>
-        <version>2020.03.RC7</version>
+        <groupId>xyz.vopen.framework</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>2020.04.RELEASE</version>
     </parent>
 </pom>
 
